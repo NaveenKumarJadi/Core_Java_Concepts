@@ -22,4 +22,10 @@ public class Test {
  * Hi Naveen Kumar, Good Morning..!
 */
 
-//In above program we are using Scanner Class
+/*
+* Using java library class Scanner, we can read input like integers, characters, strings, double values from the user.
+* Different methods to read different values such as nextInt(), next(), nextDouble()…
+* We need to specify the Keyboard(System.in) while creating Scanner class object.
+* Scanner scan = new Scanner(System.in);
+* We access all the methods using object reference name
+*/
