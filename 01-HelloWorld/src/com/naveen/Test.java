@@ -10,7 +10,7 @@ public class Test {
 }
 
 /*
- * above program 'Test' is a class name
+ * above program 'com.naveen' is a package name and 'Test' is a class name
  * 
  * public : to call by JVM from anywhere 
  * static : without existing object also JVM has to call this method 
